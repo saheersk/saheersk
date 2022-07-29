@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a full-stack developer concentrating on Python Django and React js.
+I am a full-stack developer concentrating on Python Django and React js. I started learning this in my college first year on the online platform. Now I learned full-stack development for beginners to advanced. In the frontend I use React js and in the backend Python Django. Now I improving my skills by doing projects and freelance work. I have already worked as a freelance for 6 months.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [saheersk46@gmail.com](mailto:saheersk46@gmail.com)
